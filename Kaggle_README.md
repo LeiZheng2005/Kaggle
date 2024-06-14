@@ -30,5 +30,5 @@ Codeforce:https://codeforces.com/profile/DL_From_Scratch
 
 kaggle：(ipython) https://www.kaggle.com/code/leizheng2005/breast-images-segmentation-code
 
-github：(python) 
+github：(python) https://github.com/LeiZheng2005/Kaggle/tree/main/Computer_Vision/Image_Segmentation/Breast_Cancer_Iecognition/BCI_3C_Code
 
